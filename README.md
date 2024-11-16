@@ -1,2 +1,3 @@
 # staticfiles-of-jinken
-new repo
+new repositre of the files
+using jinkens
